@@ -1,0 +1,6 @@
+*.class
+*.cache
+target/
+*.anno.json
+*.fir
+*.vcd
